@@ -1,0 +1,4 @@
+- alterado botao atomico
+- trocada cor imalaia por desertopreto
+- correcao do bug furito
+- colocado envio de isso ai
